@@ -36,7 +36,7 @@
 2020 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" ><br>Oracle Autonomous Database Cloud 2021 Certified Specialist</a> <br>
+<p align ="left"><a href="https://https://drive.google.com/drive/folders/1dSTs6mjv2aM9Za_9G5brxaVwcCigUQtB?usp=sharing" ><br>Oracle Autonomous Database Cloud 2021 Certified Specialist</a> <br>
                    Oracle Corporation, Inc.<br>
                    December 2021 </center></p>
 
