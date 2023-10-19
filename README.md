@@ -36,7 +36,7 @@
 2020 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://https://drive.google.com/drive/folders/1dSTs6mjv2aM9Za_9G5brxaVwcCigUQtB?usp=sharing" ><br>Oracle Autonomous Database Cloud 2021 Certified Specialist</a> <br>
+<p align ="left"><a href="https://drive.google.com/drive/folders/1dSTs6mjv2aM9Za_9G5brxaVwcCigUQtB?usp=sharing" ><br>Oracle Autonomous Database Cloud 2021 Certified Specialist</a> <br>
                    Oracle Corporation, Inc.<br>
                    December 2021 </center></p>
 
