@@ -2,7 +2,7 @@
 <h1 align="center">Gabrielle Rosetti J. Baitan</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/nrachero/">
+    <a href="https://www.linkedin.com/in/gabrielle-rosetti-baitan-9b219b267">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto: gabrielle.baitan@neu.edu.ph">
