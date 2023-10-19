@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?width=1025&height=267)](https://rishavchanda.io)
+[![MasterHead](https://github.com/gabbuccino/AboutGab/blob/4a2960a20e484496cd3f8802f4d7652868bc0a99/gabrielle%20rosetti%20baitan.png)
 <h1 align="center">Gabrielle Rosetti J. Baitan</h1>
 
 <p align="center">
